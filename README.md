@@ -12,7 +12,7 @@
 
 ## 💼 Experience
 
-**Full-Stack Developer** @ Raiden Enerji Bilişim *(Apr 2024 - Present)*  
+**Full-Stack Developer** @ Raiden Enerji Bilişim *(Apr 2024 - Jun 2025)*  
 • Building scalable .NET Core platform with multi-tenant architecture  
 • Optimized SQL Server performance - **40% faster** data processing  
 
