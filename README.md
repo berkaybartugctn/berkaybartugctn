@@ -4,7 +4,7 @@ Full-stack developer in Ankara. I'm strongest in back-end performance and SQL Se
 
 ## What I'm building now
 
-Three products of my own. I design and build them alone, directing AI coding agents, and I approve every release.
+Three products of my own. I design and build them alone, directing AI coding agents, and I decide what ships.
 
 - **[Hatsoff](https://hatsoff.app)** is a report card for public social media profiles. The website is live in 13 languages; the app is in development.
 - **[Çetin Yönetim](https://yonetim.berkaycetin.xyz/demo)** is management software for apartment complexes, in use at one complex. The demo is open, no sign-up.
