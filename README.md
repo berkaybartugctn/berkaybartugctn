@@ -1,40 +1,26 @@
-# Hi there, I'm Berkay Bartug Cetin! 👋
+# Berkay Bartug Cetin
 
-## 📫 Connect With Me
+Founder and full-stack developer in Ankara. I'm strongest in back-end performance and SQL Server, and I build with C#/.NET, React and TypeScript.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berkaybartugc@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://berkaybartugcetin.solutions)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/berkaybartugcetin)
+## What I'm building now
 
-## 🚀 About Me
+Three products of my own. I design and build them alone, directing AI coding agents, and I approve every release.
 
-**Full-Stack Developer** with 3 years of experience specializing in **.NET development** and **scalable applications**. Currently building multi-tenant architectures and optimizing backend performance.
+- **[Hatsoff](https://hatsoff.app)** is a report card for public social media profiles. The website is live in 13 languages; the app is in development.
+- **[Çetin Yönetim](https://yonetim.berkaycetin.xyz/demo)** is management software for apartment complexes, in use at one complex. The demo is open, no sign-up.
+- **[freeaichat.space](https://freeaichat.space)** is a free AI chat that needs no account.
 
-## 💼 Experience
+Their code lives in private repositories, so this page looks quiet. The products are the place to look: all three are open to try.
 
-**Full-Stack Developer** @ Raiden Enerji Bilişim *(Apr 2024 - Jun 2025)*  
-• Building scalable .NET Core platform with multi-tenant architecture  
-• Optimized SQL Server performance - **40% faster** data processing  
+## Before that
 
-**DevSecOps Engineer** @ Sekom *(Feb 2024 - Apr 2024)*  
-• Designed CI/CD pipelines with GitLab and Jenkins  
+- **Raiden** (2024–2025, 2026). Two of us built a multi-tenant payments platform from scratch in .NET Core: [multi-payment integration for marketplaces](https://www.raiden.com.tr/urunler/coklu-odeme.html). I came back in 2026 for database administration, server-side and infrastructure work.
+- **Madlen** (2025–2026). AI tools for teachers.
+- **Otsimo** (2022–2023). Educational apps for children.
+- Computer Engineering, Middle East Technical University.
 
-**Software Developer** @ Otsimo *(Sept 2022 - Dec 2023)*  
-• Developed award-nominated cross-platform apps with React Native  
+## Say hello
 
-## 🛠️ Tech Stack
+I'm open to new roles and projects.
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-
-## 🎓 Education
-
-**Computer Engineering** @ Middle East Technical University *(2017-2023)*
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=berkaybartugcetin&color=brightgreen&style=flat-square)
+[berkaycetin.xyz](https://berkaycetin.xyz) (my work and CV) · [LinkedIn](https://www.linkedin.com/in/berkaybc) · [berkaybartugc@gmail.com](mailto:berkaybartugc@gmail.com)
