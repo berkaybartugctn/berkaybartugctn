@@ -1,6 +1,6 @@
 # Berkay Bartug Cetin
 
-Founder and full-stack developer in Ankara. I'm strongest in back-end performance and SQL Server, and I build with C#/.NET, React and TypeScript.
+Full-stack developer in Ankara. I'm strongest in back-end performance and SQL Server, and I build with C#/.NET, React and TypeScript.
 
 ## What I'm building now
 
